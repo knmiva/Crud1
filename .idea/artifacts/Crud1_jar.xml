@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="Crud1:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Crud1_jar</output-path>
+    <root id="archive" name="Crud1.jar">
+      <element id="module-output" name="Crud1" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/javax/servlet/jstl/1.2/jstl-1.2.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
